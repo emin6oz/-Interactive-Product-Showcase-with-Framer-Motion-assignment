@@ -55,7 +55,7 @@ Make sure you have the following installed:
 
 ### 2. Clone the repository
 ```bash
-git clone https://github.com/emin6oz/-Interactive-Product-Showcase-with-Framer-Motion-assignment.git
+git clone [https://github.com/emin6oz/-Interactive-Product-Showcase-with-Framer-Motion-assignment.git](https://github.com/emin6oz/-Interactive-Product-Showcase-with-Framer-Motion-assignment.git)
 ```
 ### 3. Install dependencies
 ```bash
@@ -75,3 +75,4 @@ If it does't, visit:
 ```bash
 http://localhost:3000
 ```
+
